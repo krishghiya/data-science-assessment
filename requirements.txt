@@ -1,8 +1,10 @@
 pandas
 geopandas
 shapely
-SQLAlchemy
-psycopg2-binary
-GDAL
-ipykernel
-mermaid
+folium
+matplotlib
+seaborn
+numpy
+scikit-learn
+keras
+ipython
